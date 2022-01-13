@@ -6,12 +6,13 @@ updates:
   - package-ecosystem: "npm"
     directory: "/tdrs-frontend"
     schedule:
-      interval: "daily"
-    target-branch: "raft-tdp-main"
+      interval: daily"
+    target-branch: "main"
     labels:
       - "dependencies"
       - "frontend"
       - "raft review"
+      - "a11y-review"
     reviewers:
       - "raft-tech/tdrs-developers"
     ignore: # https://github.blog/changelog/2021-05-21-dependabot-version-updates-can-now-ignore-major-minor-patch-releases/
