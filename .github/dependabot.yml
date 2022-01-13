@@ -12,6 +12,7 @@ updates:
       - "dependencies"
       - "frontend"
       - "raft review"
+      - "a11y-review"
     reviewers:
       - "raft-tech/tdrs-developers"
     ignore: # https://github.blog/changelog/2021-05-21-dependabot-version-updates-can-now-ignore-major-minor-patch-releases/
