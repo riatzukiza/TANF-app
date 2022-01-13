@@ -11,7 +11,7 @@
     "connected-react-router": "^6.8.0",
     "file-type": "^16.5.3",
     "history": "^4.7.2",
-    "include-media": "^1.4.10",
+    "include-media": "^1.4.8",
     "miragejs": "^0.1.42",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
