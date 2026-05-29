@@ -74,7 +74,7 @@
     "@testing-library/react": "^16.0.1",
     "axe-core": "^4.10.3",
     "concurrently": "^9.1.0",
-    "cypress": "^13.17.0",
+    "cypress": "^15.16.0",
     "cypress-axe": "^1.7.0",
     "cypress-mochawesome-reporter": "^4.0.2",
     "eslint": "^8.16.0",
